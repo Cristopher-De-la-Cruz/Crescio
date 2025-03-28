@@ -15,4 +15,5 @@ Crea un controlador extendiendo el controlador base (Ejemplo ExampleController),
 dentro de ese controlador puedes crear las funciones que necesites para trabajar con tu base de datos,
 importa el controlador en Routes/Api.php, agrega una nueva ruta, metodo y acción, implementa un middleware si lo requieres.
 
-Puedes probar tus apis http://localhost/[nombre-del-proyecto]/Api/
+> [!NOTE]
+> Puedes probar tus apis en http://localhost/[nombre-del-proyecto]/Api/
